@@ -3,9 +3,9 @@ Desafio Titanic - CIT Einstein: análise dos dados do desastre do Titanic
 
 ![titanic](https://user-images.githubusercontent.com/11545292/53095258-2002c980-34fb-11e9-9870-8c188bbcf020.jpg)
 
-##Introdução
+## Introdução
 
-##Parte - 1
+## Parte - 1
 - Cálculo das probabilidade:
 - Respostas:
 - Análise por gráficos:
@@ -16,7 +16,7 @@ Desafio Titanic - CIT Einstein: análise dos dados do desastre do Titanic
 - Comentários: (Classe dos Tickets e Sexo correlacionado com Subreviventes)
 - Conclusão (Parte - 1):
 
-##Parte - 2
+## Parte - 2
 - Algoritmos de Predição:
 - Coméntarios:(Modelo 1 - preditivo simples)
 - Scikit - Learn (usando a biblioteca sklearn)
