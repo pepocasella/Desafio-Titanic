@@ -30,6 +30,6 @@ Conclusão geral (Resposta da última pergunta):
   O objetivo é fazer um modelo que prediz, dado as informações do passageiro, se ele morreu ou não no Titanic. Você está livre para usar qualquer ferramenta (python, R, weka, excel, etc) e algoritmo para fazer o modelo (regressão logística, knn, árvore de decisão, random forest, xgboost, rede neural, etc). O dataset do Titanic relaciona os passageiros e algumas de suas informações com sua morte no acidente.
 
   A análise exploratória dos dados é uma grande ferramenta para entender os dados. Então queremos que você também faça um pouco disso, respondendo as seguintes perguntas:
-•	Qual a porcentagem de homens e mulheres no navio?
-•	Dos que morreram, qual é a porcentagem de homens e mulheres?
-•	Qual modelo eu tenho uma acurácia maior (porcentagem de acerto), um que fala que toda mulher morreu ou um que fala que toda mulher sobreviveu?
+-	Qual a porcentagem de homens e mulheres no navio?
+-	Dos que morreram, qual é a porcentagem de homens e mulheres?
+-	Qual modelo eu tenho uma acurácia maior (porcentagem de acerto), um que fala que toda mulher morreu ou um que fala que toda mulher sobreviveu?
